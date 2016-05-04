@@ -1,0 +1,146 @@
+.home{
+	background: #09131B;
+}
+.a{
+	color: white; 
+}
+p{
+	color:white;
+}
+h4{
+	color:#1B1A09;
+}
+.text{
+	text-align: center;
+	color:white;
+}
+.empty{
+	padding:top: 15px;
+}
+.menu{
+	
+	height: 100px;
+	margin-top: 15px;
+}
+
+h3:hover{
+	color:black;
+}
+h4{
+	color:#1B1A09;
+}
+
+.menu1{
+	height: 100px;
+	width: 110px;
+
+}
+.bir:hover{ background: blue;
+
+}/*
+.bir{
+	padding: 20px;
+	width: 110px;
+}*/
+
+
+.menu1:hover{
+	background: blue;
+	color:white;
+}
+.menu2{
+	background: #C1E3AB;
+	height: 100px;
+
+}
+.padding{
+	padding-top: 30px;
+	padding-bottom: 10px;
+
+}
+.dog{
+	height:93px;
+	width: 93px;
+	border-radius: 100px;
+	margin-right: 20px;
+}
+.lead{
+	color: black;
+}
+
+.proper{
+	background: #C1E3AB;
+}
+.properdog{
+	background: white;
+	height: 310px;
+	width: 259px;
+}
+.properdog{
+	background: white;
+	height: 310px;
+	width: 259px;
+}
+.propercoldog{
+	background: white;
+	height: 93px;
+	width: 274px;
+    margin-bottom: 10px;
+}
+.margin{
+	margin-top:10px;
+
+}
+.allproverrow{
+	background: blue;
+	padding:25px 10px 25px 10px;
+}
+.white{
+	background: white;
+}
+.center{
+	text-align: center;
+}
+.footer{
+	background: #2D5386;
+}
+.footercoldog{
+	background: #1D2A0E;
+	height: 93px;
+	width: 274px;
+    margin-bottom: 10px;
+
+}
+h5{
+	color:white;
+}
+.dog2{	height:93px;
+	width: 93px; 
+	margin-left:-20px; 
+	
+	margin-right: 20px;
+
+}
+.left{
+	margin-left: 10px;
+}
+ul li a{
+	color: black;
+}
+a:hover{
+	color:white;
+
+}
+.bir{
+	height: 100px;
+	width: 263px;
+}
+.footer2{
+	background: #133937;
+	padding-top: 5px;
+
+}
+.properdog p{
+	color: black;
+}
+
